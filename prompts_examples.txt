@@ -1,0 +1,46 @@
+Prompt 1:
+"Design a DNA structure with 6 helices, each 60 base pairs long. Add 5 crossovers, nicking in the middle of each helix, and ensure that helices 1 and 3 loop with 4 base pairs. Helix 2 should have a sticky end that connects to helix 4. Create crossovers between helices 1 and 2, 3 and 4, and 5 and 6."
+
+Prompt 2:
+"Construct a DNA scaffold with 10 helices, each 50 base pairs long. Incorporate 8 crossovers at varying positions, and make sure helices 4 and 5 loop together with 7 base pairs. Helix 6 should include a sticky end that interacts with helix 9. Crossovers should occur between helices 2 and 3, 5 and 6, 7 and 8, and 9 and 10."
+
+Prompt 3:
+"Design a complex DNA structure with 7 helices, each 55 base pairs long. Include 6 crossovers and create a loop of 6 base pairs between helices 3 and 6. Helix 5 should have a sticky end linking with helix 4, while a crossover is placed between helices 1 and 2, 4 and 5, and 6 and 7."
+
+Prompt 4:
+"Create a DNA structure comprising 8 helices, each 40 base pairs long. There should be 4 crossovers positioned strategically between helices 2, 4, 6, and 8. Include a 5-base pair loop in helices 3 and 5. Additionally, incorporate nicking at the center of each helix, and a sticky end in helix 7 that connects with helix 6."
+
+Prompt 5:
+"Develop a DNA model with 12 helices, each containing 70 base pairs. Add 10 crossovers and include a loop of 8 base pairs in helices 4 and 9. Helix 2 should have a sticky end that bonds with helix 7. Crossovers should be placed between helices 3 and 4, 6 and 7, 8 and 9, and so on."
+
+Prompt 6:
+"Design a multi-helix DNA scaffold consisting of 5 helices, each 100 base pairs long. Include 4 crossovers and ensure helices 1 and 3 form a loop of 10 base pairs. Helix 4 should have a sticky end linking to helix 5, and create additional crossovers between helices 2 and 3, 4 and 5."
+
+Prompt 7:
+"Generate a DNA structure with 9 helices, each 60 base pairs long. The design should include 7 crossovers and ensure that helices 3 and 6 form a loop of 5 base pairs. Helix 5 should have a sticky end that pairs with helix 8. Crossovers should occur between helices 1 and 2, 4 and 5, 6 and 7, etc."
+
+Prompt 8:
+"Create a complex DNA structure consisting of 11 helices, each 45 base pairs long. Include 9 crossovers, strategic nicking in the middle of each helix, and a 3-base pair loop between helices 7 and 8. Make sure that helix 6 has a sticky end that connects to helix 7, and add crossovers between helices 3 and 4, 6 and 7, and 8 and 9."
+
+Prompt 9:
+"Design a DNA structure with 4 helices, each 80 base pairs long. Incorporate 3 crossovers and ensure that helices 2 and 4 form a loop of 6 base pairs. Helix 1 should have a sticky end that links with helix 3, and position crossovers between helices 1 and 2, 3 and 4."
+
+Prompt 10:
+"Design a multi-loop, multi-helix DNA structure with 8 helices, each 50 base pairs long. Include 6 crossovers, and create loops of 7 base pairs between helices 3 and 5, and 2 and 6. Helix 6 should have a sticky end that bonds with helix 7. Position the crossovers between helices 1 and 2, 4 and 5, and 7 and 8."
+
+Prompt 11:
+"Design a DNA structure with 8 helices, each 48 base pairs long. Include 4 crossovers, some nicking at the middle of each helix, and ensure that helices 3 and 4 have a specific loop of 5 base pairs. Helix 6 should have a sticky end that links with helix 7. Add crossovers between helices 2 and 3, 5 and 6, and 7 and 8"
+
+
+
+
+
+Prompt: Please generate a 2D DNA origami sheet, 7 parallel helices with 80 base pairs. Include crossovers between adjacent helices every 20 bases. Helix 3 needs to form a looped closure with itself (~15 bases).
+
+Prompt: I need to create a multi-helix DNA scaffold, using 5 helices, each about 100 base pairs. Ensure there are crossovers every 32 bases between all helices. Add a small loop between helix 1 and 3 (about 10 bases).
+
+Prompt: Let's build a 2D DNA origami sheet, using 5 helices, each about 100 base pairs. Randomize crossovers between helices at intervals of 30 bases. Helix 2 should end with a sticky end that binds to helix 4.
+
+Prompt: Can you help me design a lattice of DNA helices, 4 helices, about 120 bases each. Randomize crossovers between helices at intervals of 30 bases. Add a small loop between helix 1 and 3 (about 10 bases).
+
+Prompt: Can you help me design a 2D DNA origami sheet, 5 helices, each exactly 100 bases long. Crossovers between helices 2-3 and 4-5 around base 50. Helix 2 should end with a sticky end that binds to helix 4.
